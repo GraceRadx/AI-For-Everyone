@@ -1,0 +1,33 @@
+Example of a table of data (dataset)
+  Input (A): Size of House (Sq. Ft)
+    # of Bedrooms added to A
+  Output (B): Price ($1000)
+
+It is up to us to decide what is A and B depending on our use case. 
+Ex. Buying a house on a budget
+  Input (A): Price ($1000)
+  Output (B): Size of House (Sq. Ft) AND # of Bedrooms
+
+Acquiring data
+  Manual Labeling 
+    Collecting and Labeling data
+  Observing Behavious
+    Collecting identifiable data (UserID, time)
+    Making changes periodically and documenting result (Changing price -> Purchased? (0/1)
+    Ex. Machine Number
+    Recording Temperature and Pressure to predict if Machine will or will not have a fault (0/1)
+
+Open Internet = Download massive data sets from websites/partnerships that already have collected raw data
+
+Mis-use of data
+  Not feeding data to AI software until there "is enough data" or "perfect enough data" to submit
+    Start feeding data to AI software quickly
+  BUT don't throw data at an AI tema assuming it will be valuable
+    Not every data point is valuable
+
+Data is messy 
+  If there is bad data then the AI will learn "bad" or incorrect concepts
+  Data might include incorrect labels or missing values that need to be cleaned up first before feeding to AI
+  There are multiple type of data
+    Images, audio, and text are unstructured data
+    Structured data are usually data already labeled and in rows and columns or may already have meaning to the data team. 
