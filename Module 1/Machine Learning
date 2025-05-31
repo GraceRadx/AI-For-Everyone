@@ -1,0 +1,49 @@
+Machine Learning
+Supervised Learning 
+  Learns A to B OR Input to Output Mappings
+  EX: 
+    Input (A): Email
+    Output (B): Spam? (0/1)
+    Application: Spam Filtering 
+
+    Input (A): Audo
+    Output (B): Text Transcipts
+    Application: Speech Recognition 
+
+    Input (A): English
+    Output (B): Chinese
+    Application:  Machine Translation
+
+    Input (A): AD, User Info
+    Output (B): Click? (0/1)
+    Application:  Online Advertising
+
+    Input (A): Image, radar info
+    Output (B): Position of other cars
+    Application:  Self-driving Car
+
+    Input (A): Image of Phone 
+    Output (B): Defect? (0/1)
+    Application:  Visual Inspection
+
+    Input (A): Sequence of Words
+    Output (B): Predicts the next word in the sequence
+    Application:  Chatbot (LLM)
+
+Large Language Model (LLM)
+  Built using supervised learning (A->B) to repeatedly predict the next word
+  EX: 
+  Give AI model the sentance: "My favorite drink is lychee bubble tea." 
+    Input (A): My favorite drink 
+    Output (B): is
+
+    Input (A): My favorite drink is 
+    Output (B): lychee
+
+    Input (A): My favorite drink is lychee 
+    Output (B): bubble
+
+    Input (A): My favorite drink is lychee bubble
+    Output (B): tea
+When training a very large AI system on a lot of data (hundreds of billions of words), we get a Large Language Model (LLM) like ChatFPT. 
+It can seem limiting, but with the right applicable scenario it is very powerful. 
