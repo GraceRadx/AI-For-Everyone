@@ -1,0 +1,13 @@
+AI capabilities and limitations based on project specifications
+A good but imperfect rule of thumb:
+  Anything you can do with 1 second of thought we can probably now of soon automate. 
+    Ex. Transcribing text from audio to text
+        Inspecting a phone to find defect
+        Positioning of other cars relative to your car
+As of now, AI cannot accurately predict the stock market
+  Cannot predict the future price of a stock based on historical data
+    A person cannot do this one or more seconds. It takes time and methodical study
+
+What makes a project a good candiae for ML or AI
+  1. Learning a "simple" concept
+  2. Lots of data available
