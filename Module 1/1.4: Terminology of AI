@@ -1,0 +1,38 @@
+Machine Learning vs. Data Science
+
+Machine Learning System: 
+"Field of study that gives compuers he ability to learn without being explicitly programmed"
+  Input A (Sq Ft of house, # bath, # room, newly renovated(Y/N))
+  Input B (Price of house based on variables in Input A)
+  This is an A to B mapping Machine Learning System 
+ML learning often results in a running AI system (websites/mobile app)
+  This is a piece of software that can run Inputs A and create result Input B, 24/7
+  ML is often software that computes data based on pre-exisiting variables and trends. 
+
+A team might analyze a data set of house variable and find that: 
+"The science of extracting knowledge and insights from data"
+  "Homes with 3 bedrooms are more expensive than homes with 2 bedrooms of a similar size"
+This is an ex. of data science projects. 
+Analysts use data to make descions/predictions. 
+  The output is usually a slide deck/presentation that summarizes the findings from the 
+  data to implement improvements. 
+
+Deep Learning 
+Input: Size, # of bed, # of bath, newly Renovated(Y/N)
+Feed this into a (Artificial) Neural Network which finds the estimated price of a house based on Input.
+  This a mathematical equation that computes B based on Inputs A. 
+
+AI has many tools
+  Machine learning/data science
+  Deep learning/neural networks
+  Generative AI
+  unsupervised learning, reinforcement learning
+  graphical models, planning, knowledge graph, etc. 
+
+AI is a huge set of tools for making computers behave intelligently 
+  The biggest subset are tools from ML
+    Inside ML the part that is recently importatnt is Deep learning and Neural Networks. 
+  AI has other smaller tools that are growing and are important
+    Gen AI, Unsupervised and reinforcement learning, graphical models, planning,   
+    knowledge graph, etc. 
+Data Science is a intersecting study that uses ML, Deep learning, and other AI tools in combination with Data Science Specific tools. 
