@@ -1,0 +1,41 @@
+What makes a company great at using AI?
+  Look at the rise of the Internet
+    Shopping mall + Website != Internet company
+    Just because a company has a website does not mean it is an internet company
+    An internet company is a company that is using the internet's tools reall well. 
+
+Internet Companies
+  Ex. A/B Testing (throwing up two versions of the website to see which one is better)
+      Short iteration time: Sell and Ship a new product every week/day
+      Descsion making pushed down to engineers and other specialized roles
+          Shopping mall follows Gen Manager -> Store manager -> Assistant Manager for     
+          descion making
+      They adjust their roles based on the needs and flexibility of the internet and F2F   
+      retailing
+
+AI Era
+Any company + Deep learning != AI Company
+To be a "AI-First" Company:
+  Strategic data aquisiion
+    Large consumer tech companies usually have 2-3 products that DO NOT monetize allowing 
+    the company to acquire data they can monetize in their other products/services. 
+  Unified Data Warehouse
+    Bringing in data from multiple different data warehouse into a single data warehouse 
+    so data engineers can utilize all of the data and increase the usability and ease of 
+    use for them.
+  Pervasive automation
+    Constantly looking for ways to automate/streamline current tasks
+    Inserting a supervised learning algorithm and have an ATP mapping so employees waste 
+    time on automateble tasks. 
+  New Roles
+    MLE (Machine Learning Engineer) and devision of labor
+      Finding new ways to divide up tasks within a team based on automatable tasks
+
+AI Transformation
+  1. Execute pilot projects to gain momentum
+  2. Build an in-house AI team
+  3. Provide broad AI training (engineers, managers, analytsts, etc)
+  4. Develope an AI strategy
+  5. Develope internal and external communications (Stakeholders, employees, customers, 
+     and investors are aligned with how company is navigating AI)
+  
