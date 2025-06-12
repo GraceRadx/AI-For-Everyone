@@ -1,0 +1,30 @@
+Examples of concrete success and failures of AI
+  Self - driving car
+    AI Can take picutures of what is in front of the car and collect data from other inputs 
+    such as speed and radar and figure out the posisions of the other cars around your car. 
+        Input A: Picture, sensor, radar
+        Input B: Position of other cars
+    AI cannot look at a picture of a person (construction worker) and figure out what that 
+    person is trying to convey to you. 
+      (consruction worker gesturing for driver to slow or stop) 
+      (hitchhiker raising hand asking to be picked up) 
+      (bicyclist putting their arm our signalling their left turn)
+    AI systems needs to be accurate and trustworthy
+
+  X-Ray Analysis and Diagnosis
+    AI can diagnose pneumonia by studying 10,000+ label x-ray images 
+    AI cannot diagnose pneumonia from 10 images of a medical textbook chapter explaining 
+    pneumonia
+      AI will not be able to figure out what is A (X-rays of pneumonia) and what is B 
+      (pnuemonia diagnosis) by just analyzing a medical textbook about pneumonia.
+
+ML tends to work well when: 
+  1. Learning a "simple" concept
+  2. There is lots of data available
+ML tends to work poorly when: 
+  1. Learning complex concepts from small amounts of daa
+  2. It is asked to perform on new types of data that is different than the data it has 
+     seen in the original data set. 
+       AI can diognose pneumonia from x-ray pictures based on a data set of high-quality         x-rays of patients with pneumonia. 
+           However, if this AI system is used to analyze poor-quality x-rays then it will 
+           have a hard time producing a diagnosis. 
