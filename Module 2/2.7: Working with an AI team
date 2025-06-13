@@ -1,0 +1,27 @@
+Specify your acceptance crieria
+  Goal: Detect defects with 95% accurancy
+  AI team needs: data set on which to measure their performance
+      Ex. data set of coffee mug images and Input B marked as either Ok to sell or has defect.
+      This is called a test set - AI expert will specify how large a data set they need. 
+  This is usually done in a statistical way 
+    AI model Accuracy isn't measured by it's perfect or it fails. It is measured as having        45% accuracy or 95% accuracy based on the data set given. 
+
+  How AI teams think about data
+    Training Set
+        Ex. Set of pictures with labels marking whether the mug is ok or has a defect
+        The AI model is given both input A (picture of the mug) and input B (Ok/Defect)
+    Test Set
+        Ex. A set of data that is different from the training set that shows input A (mugs)
+            The AI model would receive the new test set and label each picture as Ok or                   Defect producing Input B. 
+            Ex. Mug 1: OK    Mug 2: OK    Mug 3: Defect
+            AI:   OK            OK            OK  
+            Result: 66.67% Accuracy
+
+      Some AI teams will need TWO Test sets (called development "dev" or validation sets)
+
+Pitfall: Expecting 100% Accuracy
+    Limitations of ML
+    Insufficient data (need more training data)
+    Mislabeled data
+    Ambiguous labels
+    
