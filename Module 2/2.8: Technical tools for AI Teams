@@ -1,0 +1,28 @@
+Open-source frameworks
+    Machine learning frameworks: 
+        PyTorch
+        TensorFlow
+        Hugging Face
+        PaddlePaddle
+        Scikit-learn
+        R
+    Research publications:
+        Arxiv
+    Open Source Repositories:
+        GitHub
+
+CPU vs. GPU
+    CPU: Computer Processor (Central Processing Unit)
+        Made by Intel and AMD etc. 
+    GPU: Graphics Proccessing Unit
+        Made to process pictures (notable in computers made for Video Games)
+          The original GPU hardware is very powerful and can build very large neural                 netowrks or very large deep learning algoithms. 
+        Sold by Nvidia, but Google and Qualcomm are making its own TPUs which are                  specialized hardware that are made to handle large neural networks. 
+        
+Cloud vs. On-Premises Deployment
+  Cloud Deployments refer to renting compute servers from Amazon's AWS, Microsoft's Euro,    or Google's GCP in order to use someone else's service to do YOUR computaion
+  
+  On-Prem deployment means buying your own compute service and running the service locally
+  
+  Edge Deployment: Put processor right where the data is collected (in a car) so you can     process the data quickly and make decision (stop car) without waiting for the data to      go to data center and be processed there. 
+    
