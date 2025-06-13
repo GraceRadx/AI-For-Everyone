@@ -1,2 +1,26 @@
 Speech Recognition
-  
+  Key Steps for ML project:
+    1. Collect Data
+        "Hello", "Hey Siri", "Alexa"
+    2. Train Model
+        Audio 1: "Hello"
+        Audio 2: "Hey Siri"
+        Audio 3: "Alexa"
+          The AI model will fail the first few times tries to connect input audio A to               the correct inpur B. 
+          This means that the AI engineers need to go through many interations until the             AI model is good enough
+    3. Deploy Model
+        Try this product on testing groups. 
+        Ex. if the AI model was only trained on American-accented spearkers, then it                   would have a harder time picking up on what Brisith, Austrailian, or Indian               accented people are saying. 
+      Get back the data from the testing groups and maintain/update the model based on           the results. 
+
+Self-driving car
+  1. Collect Data
+      Input A: Images of of cars driving on the road from the First Person POV
+      Then tell it what input B is: Draw rectangles around the cars you want the model to         point out. 
+  2. Train Model
+      Iterating many times so the AI model recognizes cars in a picture on its own. 
+      It will fail many times and pick out a tree or road sign and think it is a car, but       eventually, it will start identifying where the cars are. 
+  3. Deploy the model
+      Put the software in test cars and collect this trial data. 
+      Maintain and update AI model based on data. 
+        Ex. Golf carts aren't being detected
