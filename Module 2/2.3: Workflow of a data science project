@@ -1,0 +1,40 @@
+Optimizing a sales funnel
+  Normal website flow: 
+    Visit Website -> Product Page -> Shopping Cart -> Checkout
+
+Key Steps:
+  1. Collect data
+      Preexisting sales data that collects data for when different clients use the website. 
+      Variables like: User ID, Country, Time/Day, Webpage
+  2. Analyze data
+      Looking at the data, Analysts may find that clients from overseas may not want to           purchase items from their website because of high shipping costs. 
+        Which may be why people go to the Checkout page, but do not actually check out. 
+      Holidays may increase or decrease costs depending on the products. 
+      There might be a dip in sales from certain areas of the world that observe a "siesta"       or afternoon rest. Or even different time zones affect sales. 
+
+      Data analysts will look over the data they have many times to ensure their conclusion       is founded. This can also be consisdered as iterating many times to get good insights       from the data. 
+  3. Suggest Hypotheses / actions
+      Provide finding in a slide deck or presentation to the business's decision makers. 
+          Ex. Including part or whole shipping cost in the cost of the product so overseas                clients are not deterred from buying the product due to high shipping costs. 
+      The CEO's, managers, and decision makers would then deploy changes
+      They would then re-analyze the new data collected periodically. 
+
+Optimizing a Manufactuing Line - Coffee Mug
+Manufacturing Line Steps: 
+  Mix Clay -> Shape mug -> Add Glaze -> Fire Kiln -> Final Inspection
+
+Key Steps: 
+  1. Collect Data
+      Save data from clay supplier: 
+        Clay batch, supplier, and mixing time
+      Different batches of mugs and their data:
+        Mug batch, humidity, temperature of kiln, and duration in kiln
+  2. Analyze data
+      Iterate many times to get good insights
+        When the humidity is too low and the kiln is too hot, there are usually more              cracks and defects in the mugs. resulting in loss of materials and time. 
+        If it is warmer in the afternoon, they may need to adjust the temperature and             humidity depending on the time of day. 
+  3. Suffest hypotheses/actions
+      Deploy changes
+      Re-analyze new data periodically
+
+      
