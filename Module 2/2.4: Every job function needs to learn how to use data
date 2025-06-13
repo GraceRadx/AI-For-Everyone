@@ -1,0 +1,45 @@
+Sales
+  Data Science: Optimizing Sales
+    Visit Webiste -> Product Page -> Shopping cart -> Checkout
+  Machine Learning: 
+    Prioritize sales contacts that have the power and money to buy products from your           company: 
+        Name    Title    Company Size    Email          Priority
+        Taylor   CEO        3050         tay@gmail.com    High
+        Janet    Manager    230          jan@yahoo.com    Medium
+        David    Intern     30           dave@aol.com     LOW
+
+        ML can analyze this data and find that David would not be a good person to                contact about selling large amounts of products as he is an intern and is in a            smaller company. 
+        Taylor, however, should be contacted as they are a CEO and part of a big company. 
+      This is called Automated Lead Sorting that makes the sales force more effcient. 
+
+Manufacturing Line Manager
+  Data Science: Optimize Manufacturing
+    Mix Clay -> Shape Mug -> Add Glaze -> Fire Kiln -> Final Inspection
+  Machine Learning: 
+    Take a data set of Input A: Pictures of mug and find Input B: whether they are ok to       sell or have defects and need to be scrapped. 
+    This called automated visual inspection. 
+        Can decrease labor costs and improve factory quality. 
+
+Recruiting
+  Data Science: Optimizing Recruiting Funnel
+    Email Outreach -> Phone Screen -> Onsite Interview -> Offer
+  Machine Learning: 
+    Screen resumes: Input A Resume and Pick the candidates who have a Bachelors degree or       higher in a specific field. 
+    This is called Automated Resume Screening.
+
+Marketing
+Data Science: A/B Testing
+  Testing two websites, ads, promotions, etc and seeing which is utilized more.
+Machine Learning: 
+  A model would analyze a user's shopping patterns or interest (how often user views or       buys product) and eventualy would start showing user adds for that specific product        they were thinking of purchasing. 
+  This is called customized product reccommendations
+      It drives a lot sales for large online e-commerce websites
+
+Agriculture
+Data Science: Crop Analytics
+  Take data from soil and weeather conditions, presence of different crops in the market     and make decisions for what and when to plant crops and how to improve crops' quality. 
+Machine Learning: 
+  Input A: Picture of soil
+  Input B: AI selecting which plant in the picture is a weed. 
+  This is also used on plants so the plant-owners can take pictures of their plants and       understand if the plant hase too much sunlight, not enough water, etc. based on the        condition of the plant in the picture. 
+  This is called Precision Weed Killing   
