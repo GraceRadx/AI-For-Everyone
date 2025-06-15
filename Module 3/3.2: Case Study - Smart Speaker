@@ -1,0 +1,42 @@
+Prompt: "Hey device, tell me a joke."
+Steps to process the command: 
+    1. Trigger word/wakeword detection
+        Audio -> "Hey device?" (0/1) (Y/N)
+    2. Speech Recognition
+        Audio -> "Tell me a joke" = Input A
+    3. Intent Recognition
+        Input A: "Tell me a joke."
+        Input B: Joke?, Time?, Music?, Call?, Weather?
+    4. Execute Joke
+ This is an AI pipeline. Where AI completes tasks one after the other
+
+Prompt: "Hey device, set timer for 10 minutes."
+Steps to process the command: 
+    1. Trigger word/wakeword detection
+        Audio -> "Hey device?" (0/1) (Y/N)
+    2. Speech Recognition
+        Audio -> "set timer for 10 min." = Input A
+    3. Intent Recognition
+        Input A: "set timer for 10 min." --> timer?
+        Input B: timer
+    4. Execute
+        a. Extract duration
+            Set timer for {10 minutes}
+            Let me know when {10 minutes} is up
+        b. Start Timer for 10 minutes
+
+Other functions
+    Play music 
+    Volume up/down
+    Make call
+    Current Time
+    Units Conversion
+    Simple Questions
+
+Key Steps: 
+    1. Trigger word/wakeword detection
+    2. Speech Recognition
+    3. Intent Recognition
+    4. Specialized program to execute command
+
+A possible hardship is that it is a lot of work to write specialized programs for each potenial requests
