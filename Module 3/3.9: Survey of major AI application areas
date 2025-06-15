@@ -1,0 +1,50 @@
+Computer Vision
+    - Image classificaion/Object recognition
+        Cat? Not Cat?
+        - Face recognition
+            i. Input picture of person's face
+            ii. Give second picture and see if new picture is of the same person
+    - Object detection
+        - take an input of picture and tell the position of certain objects it detected
+    - Image segmentation
+        - Draws precise (by pixel) boundaries around objects in picutre. 
+    - Tracking 
+        - Video tracking and storing location of person or object in video as they move
+
+Natural Language Processing
+    - Text classification
+          Email -> Spam? Not Spam?
+          Produc description -> Prodcut Category
+        - Sentiment recognition
+            "The food was good" -> 4 stars
+            "Service was horrible" -> 1 star
+    - Information retrieval 
+        - Web search
+    - Name entity recognition
+        - "Queen Elizabeth II knighted Sir Paul McCartney for his services to music a                Buckingham Palace"
+        - Recognizes and selects, names or place in the input phrase above. 
+    - Machine translation
+        - Translates from one language to another
+
+Speech
+    - Speech recognition (speech-to-text)
+    - Trigger word/wakeword detection
+    - Speaker ID
+        Figure out the identity of the person speaking
+    - Speech synthesis (Text-to-speech, TTS)
+
+Generative AI
+    - Artificial intelligence systems that can produce high quality content,                    specifically, text, images, and audio. 
+    - Text Generation
+    - Image Generation
+    - Audio Generation
+        - Speech, music
+
+Robotics
+    - Perception: Figuring out what is in the world around you
+    - Motion planning: Finding a path for the robot to follow
+    - Control: Sending commands to the motors to follow a path
+
+General Machine Learning 
+    -  Unsctructered data (images, audio, text)
+    -  Structed data (House size, Supplier, Price)
