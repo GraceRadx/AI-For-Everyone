@@ -1,0 +1,18 @@
+Steps for deciding how to drive
+    1. Image/Radar/Lidar/GPS/Map
+        a. Car Detection
+            i. Trajectory Prediction
+        b. Pedestrian Detection
+            i. Trajectory Prediction
+        c. Lane Detection
+        d. Traffic Light Detection
+        c. Obstical Detection
+    2. Motion Planning
+    3. Car Movement (Steer, Accelerate, Brake)
+
+1. Car Detection
+    uses machine learning 
+2. Pedestrian Detection
+    same as car detection, but for people
+3. Motion Planning
+    software to follow the road, not hit other cars, stay in lanes
