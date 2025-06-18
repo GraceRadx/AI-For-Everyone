@@ -1,0 +1,13 @@
+Adversarial attacks on AI 
+    Input image of a hummingbird and AI correctly labels it
+        But we make a minor pertubation (slight change in pixels that is usually not                 noticable to humans)
+        AI labels the images as a hammer, when it is still a hummingbird
+
+Physical Attacks
+    Ex. A man wearing a weird pair of glasses and AI thinks he is Milla Jovovich
+    Ex. fooling an AI system into not seeing a stop sign by putting stickers on the sign
+
+Adversarial defenses
+    Defenses do exist, but incur some cost
+    Similar t spam vs. anti-spam, we may be in an arms race for some applications
+    
