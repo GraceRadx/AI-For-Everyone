@@ -1,0 +1,25 @@
+Supervised Learning = A to B Mapping
+
+Unsupervised Learning
+    Clustering 
+          Ex. Potato Chips Sales
+              Price per Packet vs. Num of Packets
+              Clusters of people buying lower priced packet but buys more: College Students
+              Clusters of people buying higher prices packet but buys less: Health conscious
+          Given Data (without any specific desired output labels), find something                     interesting about the data. 
+
+Transfer Learning 
+    A. Car Detecion - AI is trained on this using 100,000 images
+    B. Golf Cart Detection - AI is trained on this using 100 images
+    Learn from task A and use that knowledge to help on task B
+
+Reinforcement Learning 
+    Use a "reward signal" to tell the AI when it is doing well or poorly. It automatically      learns to maximize its rewards. 
+        Weakness: requires huge amounts of data
+
+GANs (Generative Adversarial Network)
+    Synthesize new images from scratch
+    
+Knowledge Graph
+    A database that lists people and key information about them 
+    Now companies have built knowledge graphs about buildings, movies, celebs
